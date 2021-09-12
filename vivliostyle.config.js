@@ -4,6 +4,6 @@ module.exports = {
   entry: [
     'chapter-1.md',
     'chapter-2.md',
-    'chapter-3.md',
+    'chapter-100.md',
   ]
 }
