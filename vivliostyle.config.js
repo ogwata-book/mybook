@@ -6,5 +6,6 @@ module.exports = {
     'chapter-1.md',
     'section-1.md',
     'chapter-3/section-2.md',
+    'test_oubun.md',
   ]
 }
