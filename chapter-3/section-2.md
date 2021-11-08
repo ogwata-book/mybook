@@ -3,8 +3,10 @@
 
 汚れつちまつた悲しみに……（中原中也）
 
-
-
+<body>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Reggae+One&display=swap" rel="stylesheet"> 
 
 汚れつちまつた[^1]悲しみに
 今日も小雪の降りかかる
@@ -28,3 +30,4 @@
 いたいたしくも{怖気|おぢけ}づき
 汚れつちまつた悲しみに
 なすところもなく日は暮れる……
+</body>
