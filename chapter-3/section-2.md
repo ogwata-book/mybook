@@ -2,10 +2,12 @@
 
 汚れつちまつた悲しみに……（中原中也）
 
-<body>
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Reggae+One&display=swap" rel="stylesheet"> 
+
+<body>
 
 汚れつちまつた[^1]悲しみに
 今日も小雪の降りかかる
@@ -13,7 +15,6 @@
 今日も風さへ吹きすぎる
 
 [^1]: 汚れたとはなにか
-
 
 汚れつちまつた悲しみは
 たとへば狐の{革裘|かはごろも}
@@ -29,4 +30,5 @@
 いたいたしくも{怖気|おぢけ}づき
 汚れつちまつた悲しみに
 なすところもなく日は暮れる……
+
 </body>
