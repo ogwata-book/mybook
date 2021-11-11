@@ -1,11 +1,10 @@
 @charset "UTF-8";
 
-/*
-@import url('https://fonts.googleapis.com/css2?family=Reggae+One&display=swap');
-*/
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@200&display=swap');
 
 html{
-    font-family: 'Reggae One', cursive;
+    font-family: 'Noto Serif JP', serif;
     font-size: 24px;
     line-height: 42px;
     text-align: justify;
