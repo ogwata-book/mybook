@@ -12,6 +12,7 @@
 </script>
 
 html{
+writing-mode: vertical-rl;
 font-family: dnp-shuei-nshogomincho-std, sans-serif;
 font-weight: 700;
 font-style: normal;
