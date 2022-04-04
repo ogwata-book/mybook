@@ -3,4 +3,15 @@
 html{
 writing-mode: vertical-rl;
 font-style: normal;
+font-family: "游明朝", "YuMincho", serif;
+text-align: justify;
+/* 約物の調整、和欧文間スペース */
+text-spacing: space-first allow-end ideograph-alpha ideograph-numeric;
+line-height: 2;
+}
+
+p {
+  text-indent: 1em;
+  /* 段落先頭約物の調整、行末句読点ぶら下げあり */
+  hanging-punctuation: first allow-end;
 }
