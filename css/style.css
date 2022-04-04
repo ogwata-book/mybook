@@ -1,9 +1,11 @@
 @charset "UTF-8";
 
+
+
 html{
 writing-mode: vertical-rl;
 font-style: normal;
-font-family: "游明朝", "YuMincho", serif;
+font-family: serif;
 text-align: justify;
 /* 約物の調整、和欧文間スペース */
 text-spacing: space-first allow-end ideograph-alpha ideograph-numeric;
