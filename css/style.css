@@ -10,6 +10,10 @@ text-spacing: space-first allow-end ideograph-alpha ideograph-numeric;
 line-height: 2;
 }
 
+* {
+  margin: 0;
+  padding: 0; }
+  
 p {
   text-indent: 1em;
   /* 段落先頭約物の調整、行末句読点ぶら下げあり */
