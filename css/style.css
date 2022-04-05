@@ -5,7 +5,7 @@
 html{
 writing-mode: vertical-rl;
 font-style: normal;
-font-family: serif;
+font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", sans-serif;
 text-align: justify;
 /* 約物の調整、和欧文間スペース */
 text-spacing: space-first allow-end ideograph-alpha ideograph-numeric;
