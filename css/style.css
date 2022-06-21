@@ -5,7 +5,6 @@ writing-mode: vertical-rl;
 font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", sans-serif;
 font-style: normal;
 text-align: justify;
-/* 約物の調整、和欧文間スペース */
 text-spacing: space-first allow-end ideograph-alpha ideograph-numeric;
 line-height: 2;
 }
@@ -16,6 +15,5 @@ line-height: 2;
   
 p {
   text-indent: 1em;
-  /* 段落先頭約物の調整、行末句読点ぶら下げあり */
   hanging-punctuation: first allow-end;
 }
