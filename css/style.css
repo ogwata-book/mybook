@@ -16,8 +16,11 @@ line-height: 2;
   padding: 0; }
   
 p {
-    font-weight: 300;
+  font-weight: 300;
   text-indent: 1em;
   hanging-punctuation: first allow-end;
 }
 
+h1 {
+font-weight: 900; 
+}
