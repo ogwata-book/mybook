@@ -2,8 +2,8 @@
 
 
 html{
-//writing-mode: vertical-rl;
-font-family: ' 'IPAPGothic', sans-serif;
+writing-mode: vertical-rl;
+font-family: 'IPAPGothic', sans-serif;
 font-style: normal;
 text-align: justify;
 text-spacing: space-first allow-end ideograph-alpha ideograph-numeric;
@@ -11,6 +11,7 @@ line-height: 2;
 }
 
 /*
+
 * {
   margin: 0;
   padding: 0; }
