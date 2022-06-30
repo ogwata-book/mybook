@@ -3,8 +3,10 @@ module.exports = {
   author: '尾久綿次郎',
   theme: '',
   entry: [
+    'Alice.md',
     'chapter-2.md',
     'chapter-1.md',
     'chapter-3/section-2.md',
+    'fed.md'
   ]
 }
