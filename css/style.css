@@ -4,7 +4,7 @@
 
 html {
   writing-mode: vertical-rl;
-  font-family: 'Shippori Mincho', serif;
+  font-family: 'DFMinchoPPro6N-W3', serif;
   font-style: normal;
   text-align: justify;
   text-spacing: space-first allow-end ideograph-alpha ideograph-numeric;
@@ -13,17 +13,14 @@ html {
 
 p {
   margin: 0;
-  font-weight: 400;
   text-indent: 1em;
   hanging-punctuation: first allow-end;
 }
 
 h1 {
-  font-family: 'Noto Sans JP', sans-serif;
-  font-weight: 700; 
+  font-family: 'DFKingGothicJP16N-Extrablack', sans-serif;
 }
 
 h2 {
-  font-family: 'Noto Sans JP', sans-serif;
-  font-weight: 500; 
+  font-family: 'DFKingGothicJP16N-Semibold', sans-serif;
 }
