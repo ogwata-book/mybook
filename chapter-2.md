@@ -1,6 +1,12 @@
 <script>FontJSON={User:"42596" ,DomainID:"D0008738MFR", Font:["DFMinchoPPro6N-W3","DFGothicPPro6N-W2","DFKingGothicJP16N-Semibold","DFKingGothicJP16N-Extrablack"]}</script>
 <script src='https://dfo.dynacw.co.jp/JSDynaFont/DynaFont.js'></script>
 
+<style>
+body {
+ font-family: 'DFMinchoPPro6N-W3';
+ 
+ }
+</style>
 
 # 銀河鉄道の夜
 
