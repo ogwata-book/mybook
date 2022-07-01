@@ -1,7 +1,5 @@
 @charset "UTF-8";
 
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500;700&family=Shippori+Mincho&display=swap');
-
 html {
   writing-mode: vertical-rl;
   font-family: 'DFMinchoPPro6N-W3', serif;
