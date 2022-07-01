@@ -3,7 +3,7 @@
 
 <style>
 body {
- font-family: 'DFMinchoPPro6N-W3';
+ font-family: 'DFMinchoPPro6N-W3'
  }
 </style>
 
