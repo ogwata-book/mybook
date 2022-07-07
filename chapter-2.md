@@ -1,6 +1,3 @@
-<script>FontJSON={User:"42596" ,DomainID:"D0008738MFR", Font:["DFMinchoPPro6N-W3","DFKingGothicJP16N-Bold","DFKingGothicJP16N-Ultrabold"]}</script>
-<script src='https://dfo.dynacw.co.jp/JSDynaFont/DynaFont.js'></script>
-
 # 銀河鉄道の夜
 
 **宮沢賢治**
