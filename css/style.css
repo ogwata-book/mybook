@@ -33,6 +33,7 @@ h2 {
 }
 @page :left {
   @top-left {
+    writing-mode: horizontal-tb;  
     content: counter(page) "　" env(doc-title);
     margin-left: 7pt;
     margin-top: 8.5mm;
@@ -40,6 +41,7 @@ h2 {
 }
 @page :right {
   @top-right {
+    writing-mode: horizontal-tb;
     content: counter(page);
     margin-right: 7pt;
     margin-top: 8.5mm;
