@@ -1,27 +1,30 @@
 @charset "UTF-8";
 
-html {
-  writing-mode: vertical-rl;
-  font-family: 'Noto Sans CJK JP', sans-serif;
-  font-style: normal;
-  text-align: justify;
-  text-spacing: space-first allow-end ideograph-alpha ideograph-numeric;
-  line-height: 2;
-  orphans: 1;
-  widows: 1;
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@700;900&family=Shippori+Mincho&display=swap');
+
+html{
+writing-mode: vertical-rl;
+font-family: 'Shippori Mincho', serif;
+font-style: normal;
+text-align: justify;
+text-spacing: space-first allow-end ideograph-alpha ideograph-numeric;
+line-height: 2;
 }
 
 p {
   font-weight: 300;
-  margin: 0;
   text-indent: 1em;
   hanging-punctuation: first allow-end;
 }
+
 h1 {
-  font-weight: 900;
+font-family: 'Noto Sans JP', sans-serif;  
+font-weight: 500; 
 }
+
 h2 {
-  font-weight: 700; 
+font-family: 'Noto Sans JP', sans-serif;
+font-weight: 700; 
 }
 
 @page {
