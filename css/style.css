@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@700;900&family=Shippori+Mincho&display=swap');
 
 html{
-font-size: 28pt;
+font-size: 26pt;
 font-family: 'Shippori Mincho', serif;
 font-style: normal;
 text-align: justify;
@@ -14,7 +14,6 @@ line-height: 2;
 .p1 {
   font-family: 'Noto Sans JP', sans-serif;
   font-weight: 400;
-  text-indent: 1em;
   hanging-punctuation: first allow-end;
 }
 
