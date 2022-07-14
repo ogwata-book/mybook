@@ -5,7 +5,7 @@
 
 <div class="p1">
 花さそふ あらしの庭の 雪ならで<br>
-<span>Noto Sans JP</span>
+<divclass="font-name">Noto Sans JP</div>
 </div>
 
 花さそふ あらしの庭の 雪ならで
