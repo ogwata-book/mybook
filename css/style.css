@@ -8,12 +8,6 @@ text-spacing: space-first allow-end ideograph-alpha ideograph-numeric;
 line-height: 2;
 }
 
-.p1 {
-  font-family: 'Noto Sans JP', sans-serif;
-  font-weight: 400;
-  hanging-punctuation: first allow-end;
-}
-
 .font-name {
 font-size: 12pt;
 }
@@ -22,6 +16,10 @@ font-size: 12pt;
   font-family: 'Noto Sans JP', sans-serif;
   font-weight: 400;
   hanging-punctuation: first allow-end;
+}
+
+.p2 {
+  font-family: 'BIZ UDGothic', sans-serif;
 }
 
 .p1 {
