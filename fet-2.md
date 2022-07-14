@@ -240,17 +240,17 @@
 </div>
 
 <div class="p48">
-<div class="font-name">Zen Kurenaido<br></div>
+<div class="font-name">Zen Maru Gothic<br></div>
 花さそふ あらしの庭の 雪ならで
 </div>
 
 <div class="p49">
-<div class="font-name">Zen Kurenaido<br></div>
+<div class="font-name">Zen Old Mincho<br></div>
 花さそふ あらしの庭の 雪ならで
 </div>
 
 <div class="p50">
-<div class="font-name">Zen Kurenaido<br></div>
+<div class="font-name">Dela Gothic One<br></div>
 花さそふ あらしの庭の 雪ならで
 </div>
 
