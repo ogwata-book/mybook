@@ -12,15 +12,10 @@ line-height: 2;
   font-family: 'Noto Sans JP', sans-serif;
   font-weight: 400;
   hanging-punctuation: first allow-end;
-  span {
-    font-size: 12pt;
-  }
 }
 
-.p1 {
-  font-family: 'Noto Sans JP', sans-serif;
-  font-weight: 400;
-  hanging-punctuation: first allow-end;
+.font-name {
+font-size: 12pt;
 }
 
 .p1 {
