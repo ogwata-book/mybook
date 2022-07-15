@@ -1,6 +1,6 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=M+PLUS+1+Code:wght@300&family=M+PLUS+1:wght@300&family=M+PLUS+1p:wght@300&family=M+PLUS+2:wght@300&family=M+PLUS+Rounded+1c:wght@300display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=M+PLUS+1+Code:wght@300&family=M+PLUS+1:wght@300&family=M+PLUS+1p:wght@300&family=M+PLUS+2:wght@300&family=M+PLUS+Rounded+1c:wght@300&display=swap" rel="stylesheet">
 
 
 <div class="p17">
