@@ -1,87 +1,7 @@
- <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=BIZ+UDGothic&family=BIZ+UDMincho&family=BIZ+UDPGothic&family=BIZ+UDPMincho&family=Dela+Gothic+One&family=DotGothic16&family=Hachi+Maru+Pop&family=Hina+Mincho&family=Kaisei+Decol&family=Kaisei+HarunoUmi&family=Kaisei+Opti&family=Kaisei+Tokumin&family=Kiwi+Maru:wght@300&family=Klee+One&family=Kosugi&family=Kosugi+Maru&family=M+PLUS+1+Code:wght@300&family=M+PLUS+1:wght@300&family=M+PLUS+1p:wght@300&family=M+PLUS+2:wght@300&family=M+PLUS+Rounded+1c:wght@300&family=Mochiy+Pop+One&family=Mochiy+Pop+P+One&family=Murecho:wght@300&family=New+Tegomin&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=M+PLUS+1+Code:wght@300&family=M+PLUS+1:wght@300&family=M+PLUS+1p:wght@300&family=M+PLUS+2:wght@300&family=M+PLUS+Rounded+1c:wght@300display=swap" rel="stylesheet">
 
-
-<div class="p2">
-<div class="font-name">BIZ UDGothic<br></div>
-花さそふ あらしの庭の 雪ならで
-</div>
-
-<div class="p3">
-<div class="font-name">BIZ UDMincho<br></div>
-花さそふ あらしの庭の 雪ならで
-</div>
-
-<div class="p4">
-<div class="font-name">BIZ UDPGothic<br></div>
-花さそふ あらしの庭の 雪ならで
-</div>
-
-<div class="p5">
-<div class="font-name">BIZ UDPMincho<br></div>
-花さそふ あらしの庭の 雪ならで
-</div>
-
-<div class="p50">
-<div class="font-name">Dela Gothic One<br></div>
-花さそふ あらしの庭の 雪ならで
-</div>
-
-<div class="p6">
-<div class="font-name">DotGothic16<br></div>
-花さそふ あらしの庭の 雪ならで
-</div>
-
-<div class="p7">
-<div class="font-name">Hachi Maru Pop<br></div>
-花さそふ あらしの庭の 雪ならで
-</div>
-
-<div class="p8">
-<div class="font-name">Hina Mincho<br></div>
-花さそふ あらしの庭の 雪ならで
-</div>
-
-<div class="p9">
-<div class="font-name">Kaisei Decol<br></div>
-花さそふ あらしの庭の 雪ならで
-</div>
-
-<div class="p10">
-<div class="font-name">Kaisei HarunoUmi<br></div>
-花さそふ あらしの庭の 雪ならで
-</div>
-
-<div class="p11">
-<div class="font-name">Kaisei Opti<br></div>
-花さそふ あらしの庭の 雪ならで
-</div>
-
-<div class="p12">
-<div class="font-name">Kaisei Tokumin<br></div>
-花さそふ あらしの庭の 雪ならで
-</div>
-
-<div class="p13">
-<div class="font-name">Kiwi Maru<br></div>
-花さそふ あらしの庭の 雪ならで
-</div>
-
-<div class="p14">
-<div class="font-name">Klee One<br></div>
-花さそふ あらしの庭の 雪ならで
-</div>
-
-<div class="p15">
-<div class="font-name">Kosugi<br></div>
-花さそふ あらしの庭の 雪ならで
-</div>
-
-<div class="p16">
-<div class="font-name">Kosugi Maru<br></div>
-花さそふ あらしの庭の 雪ならで
-</div>
 
 <div class="p17">
 <div class="font-name">M PLUS 1<br></div>
@@ -107,24 +27,3 @@
 <div class="font-name">M PLUS Rounded 1c<br></div>
 花さそふ あらしの庭の 雪ならで
 </div>
-
-<div class="p22">
-<div class="font-name">Mochiy Pop One<br></div>
-花さそふ あらしの庭の 雪ならで
-</div>
-
-<div class="p23">
-<div class="font-name">Mochiy Pop P One<br></div>
-花さそふ あらしの庭の 雪ならで
-</div>
-
-<div class="p24">
-<div class="font-name"Murecho<br></div>
-花さそふ あらしの庭の 雪ならで
-</div>
-
-<div class="p25">
-<div class="font-name">New Tegomin<br></div>
-花さそふ あらしの庭の 雪ならで
-</div>
-
