@@ -1,215 +1,49 @@
 @charset "UTF-8";
 
-html{
-font-size: 26pt;
-font-style: normal;
-text-align: justify;
-text-spacing: space-first allow-end ideograph-alpha ideograph-numeric;
-line-height: 2;
+html {
+  writing-mode: vertical-rl;
+  font-family: 'Noto Sans CJK JP', sans-serif;
+  font-style: normal;
+  text-align: justify;
+  text-spacing: space-first allow-end ideograph-alpha ideograph-numeric;
+  line-height: 2;
+  orphans: 1;
+  widows: 1;
 }
 
-.font-name {
-font-size: 12pt;
-}
-
-.p1 {
-  font-family: 'Noto Sans JP', sans-serif;
-  font-weight: 400;
+p {
+  font-weight: 300;
+  margin: 0;
+  text-indent: 1em;
   hanging-punctuation: first allow-end;
 }
-
-.p2 {
-  font-family: 'BIZ UDGothic', sans-serif;
+h1 {
+  font-weight: 900;
+}
+h2 {
+  font-weight: 700; 
 }
 
-.p3 {
-  font-family: 'BIZ UDMincho', serif;
+@page {
+  size: 148mm 210mm;
+  width: 360pt;
+  height: 468pt;
+  margin: auto;
+  font-size: 8.5pt;
 }
-
-.p4 {
-  font-family: 'BIZ UDPGothic', sans-serif;
+@page :left {
+  @top-left {
+    writing-mode: horizontal-tb;  
+    content: counter(page) "　" env(doc-title);
+    margin-left: 7pt;
+    margin-top: 8.5mm;
+  }
 }
-
-.p5 {
-  font-family: 'BIZ UDPMincho', serif;
-}
-
-.p6 {
-  font-family: 'DotGothic16', sans-serif;
-}
-
-.p7 {
-  font-family: 'Hachi Maru Pop', cursive;
-}
-
-.p8 {
-  font-family: 'Hina Mincho', serif;
-}
-
-.p9 {
-  font-family: 'Kaisei Decol', serif;
-}
-
-.p10 {
-  font-family: 'Kaisei HarunoUmi', serif;
-}
-
-.p11 {
-  font-family: 'Kaisei Opti', serif;
-}
-
-.p12 {
-  font-family: 'Kaisei Tokumin', serif;
-}
-
-.p13 {
-  font-family: 'Kiwi Maru', serif;
-}
-
-.p14 {
-  font-family: 'Klee One', cursive;
-}
-
-.p15 {
-  font-family: 'Kosugi', sans-serif;
-}
-
-.p16 {
-  font-family: 'Kosugi Maru', sans-serif;
-}
-
-.p17 {
-  font-family: 'M PLUS 1', sans-serif;
-}
-
-.p18 {
-  font-family: 'M PLUS 1 Code', sans-serif;
-}
-
-.p19 {
-  font-family: 'M PLUS 1p', sans-serif;
-}
-
-.p20 {
-  font-family: 'M PLUS 2', sans-serif;
-}
-
-.p21 {
-  font-family: 'M PLUS Rounded 1c', sans-serif;
-}
-
-.p22 {
-  font-family: 'Mochiy Pop One', sans-serif;
-}
-
-.p23 {
-  font-family: 'Mochiy Pop P One', sans-serif;
-}
-
-.p24 {
-  font-family: 'Murecho', sans-serif;
-}
-
-.p25 {
-  font-family: 'New Tegomin', serif;
-}
-
-.p26 {
-  font-family: 'Noto Serif JP', serif;
-}
-
-.p27 {
-  font-family: 'Potta One', cursive;
-}
-
-.p28 {
-  font-family: 'Rampart One', cursive;
-}
-
-.p29 {
-  font-family: 'Reggae One', cursive;
-}
-
-.p30 {
-  font-family: 'RocknRoll One', sans-serif;
-}
-
-.p31 {
-  font-family: 'Sawarabi Gothic', sans-serif;
-}
-
-.p32 {
-  font-family: 'Shippori Antique', sans-serif;
-}
-
-.p33 {
-  font-family: 'Shippori Antique B1', sans-serif;
-}
-
-.p34 {
-  font-family: 'Shippori Mincho', serif;
-}
-
-.p35 {
-  font-family: 'Shippori Mincho B1', serif;
-}
-
-.p36 {
-  font-family: 'Stick', sans-serif;
-}
-
-.p37 {
-  font-family: 'Train One', cursive;
-}
-
-.p38 {
-  font-family: 'Yomogi', cursive;
-}
-
-.p39 {
-  font-family: 'Yuji Boku', serif;
-}
-
-.p40 {
-  font-family: 'Yuji Mai', serif;
-}
-
-.p41 {
-  font-family: 'Yuji Syuku', serif;
-}
-
-.p42 {
-  font-family: 'Yusei Magic', sans-serif;
-}
-
-.p43 {
-  font-family: 'Zen Antique', serif;
-}
-
-.p44 {
-  font-family: 'Zen Antique Soft', serif;
-}
-
-.p45 {
-  font-family: 'Zen Kaku Gothic Antique', sans-serif;
-}
-
-.p46 {
-   font-family: 'Zen Kaku Gothic New', sans-serif;
-}
-
-.p47 {
-  font-family: 'Zen Kurenaido', sans-serif;
-}
-
-.p48 {
-   font-family: 'Zen Maru Gothic', sans-serif;
-}
-
-.p49 {
-  font-family: 'Zen Old Mincho', serif;
-}
-
-.p50 {
-  font-family: 'Dela Gothic One', cursive;
+@page :right {
+  @top-right {
+    writing-mode: horizontal-tb;
+    content: counter(page);
+    margin-right: 7pt;
+    margin-top: 8.5mm;
+   }
 }
