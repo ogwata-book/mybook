@@ -2,13 +2,18 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@700;900&family=Shippori+Mincho&display=swap');
 
-html{
+html {
 writing-mode: vertical-rl;
 font-family: 'Shippori Mincho', serif;
 font-style: normal;
 text-align: justify;
 text-spacing: space-first allow-end ideograph-alpha ideograph-numeric;
 line-height: 2;
+}
+
+* {
+  margin: 0;
+  padding: 0; 
 }
 
 p {
