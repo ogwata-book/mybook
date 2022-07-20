@@ -11,12 +11,8 @@ text-spacing: space-first allow-end ideograph-alpha ideograph-numeric;
 line-height: 2;
 }
 
-* {
-  margin: 0;
-  padding: 0; 
-}
-
 p {
+  margin: 0;
   font-weight: 400;
   text-indent: 1em;
   hanging-punctuation: first allow-end;
