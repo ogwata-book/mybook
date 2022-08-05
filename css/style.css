@@ -31,8 +31,8 @@ font-weight: 700;
 
 @page {
    size: A5;
-   marks: crop cross;
-   bleed: 3mm;
+//marks: crop cross;
+//::backdrop: 3mm;
 //size: 148mm 210mm;
   width: 360pt;
   height: 468pt;
