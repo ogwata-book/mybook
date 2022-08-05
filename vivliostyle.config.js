@@ -2,7 +2,7 @@ module.exports = {
   title: '私の本',
   author: '尾久綿次郎',
   theme: 'css/style.css',
-  size: 'JIS-B5',
+  size: 'A3',
   entry: [
   //'Alice.md',
   'chapter-2.md',
